@@ -1,0 +1,23 @@
+{
+  "name": "learning_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan26/learning_tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsan26/learning_tdd/issues"
+  },
+  "homepage": "https://github.com/ahsan26/learning_tdd#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
